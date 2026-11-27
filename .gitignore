@@ -1,4 +1,14 @@
-node_modules/
+# Environment variables
 .env
+**/.env
+*.env.local
+
+# Dependencies
+node_modules/
+**/node_modules/
+package.json
+package-lock.json
+
+# Build / Logs
 dist/
-.angular/
+*.log

@@ -22,5 +22,3 @@ async function startServer() {
 }
 
 startServer();
-
-//whdguswdg
